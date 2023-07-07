@@ -32,6 +32,7 @@ src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt5ebe80fb665a
 src="https://earthengine.google.com/static/images/earth-engine-logo.png">
   <img align="center" alt="Thais-Colab" height="40" width="60" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png">
+  <img align="right" alt="Gif" height="130" width="130" src="https://github.com/thais-correia/gif/assets/84729710/8ea9a04b-edec-483a-94a4-fe50351bf314"> 
 </div> 
 
 ###
@@ -39,7 +40,6 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaborato
 <div> 
   <a href="https://www.youtube.com/channel/UCp21Jl8xKiTuolkueaWHAZw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thaispcorreia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <img align="right" alt="Gif" src="https://garupa-grupo.slack.com/files/U022BFW7YS0/F05GE20A77B/7ru5zm.gif"> 
 </div>
 
 
