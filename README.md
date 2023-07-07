@@ -34,8 +34,6 @@ src="https://earthengine.google.com/static/images/earth-engine-logo.png">
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png">
   <img align="center" alt="Thais-Google" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">
-  <img align="center" alt="Thais-Azure" height="30" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
   <img align="right" alt="Gif" height="130" width="130" src="https://github.com/thais-correia/gif/assets/84729710/8ea9a04b-edec-483a-94a4-fe50351bf314">
 </div> 
             
