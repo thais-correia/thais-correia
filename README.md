@@ -3,7 +3,7 @@
 - 📍  I'm from São Paulo city, Brazil.
 - 🌎 I’m currently working on GIS at an urban mobility app.
 - 🌱 I’m currently learning geoprocessing and remote sensing techniques, data science and programming languages.
-- 👯 I’m looking to collaborate with colleagues who have doubts in the ​​geoprocessing field and its automation processes.
+- 👯 I’m looking to collaborate with colleagues who are curious about the ​​geoprocessing field and its automation processes.
 - 🤔 I’m looking for help with GIS Development and Big Geospatial Data.
 - 💻 Knowledge in: QGIS, ArcGIS, Google Earth Engine, GeoServer, ElasticSearch, PostGIS, Microsoft Office, Python, R and Javascript languages.
 - 💬 Ask me about GIS, remote sensing and python.
