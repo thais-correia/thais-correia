@@ -1,7 +1,7 @@
 ### Hi there! I'm thais-correia 👋
 
 - 📍  I'm from São Paulo city, Brazil.
-- 🌎 I’m currently working on GIS at an urban mobility app.
+- 🌎 I’m currently working on GIS and Remote Sensing.
 - 🌱 I’m currently learning geoprocessing and remote sensing techniques, data science and programming languages.
 - 👯 I’m looking to collaborate with colleagues who are curious about the ​​geoprocessing field and its automation processes.
 - 🤔 I’m looking for help with GIS Development and Big Geospatial Data.
