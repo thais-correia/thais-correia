@@ -23,7 +23,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudi
   <img align="center" alt="Thais-QGIS" height="30" width="40" 
 src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg">
   <img align="center" alt="Thais-ArcGIS" height="40" width="40" 
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/600px-ArcGIS_logo.png?20200916120335">
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/250px-ArcGIS_logo.png">
   <img align="center" alt="Thais-Geoserver" height="70" width="90" 
 src="https://upload.wikimedia.org/wikipedia/de/3/38/GeoServer_Logo.svg">
    <img align="center" alt="Thais-Elastic" height="80" width="90" 
