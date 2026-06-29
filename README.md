@@ -10,25 +10,25 @@
 - 📫 How to reach me: you can send me a message on LinkedIn.
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Thais-R" height="30" width="40" 
+  <img align="left" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="left" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="left" alt="Thais-R" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
-  <img align="center" alt="Thais-Postgres" height="30" width="40" 
+  <img align="left" alt="Thais-Postgres" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="Thais-Docker" height="40" width="50" 
+  <img align="left" alt="Thais-Docker" height="40" width="50" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Thais-QGIS" height="30" width="40" 
 src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg">
-  <img align="center" alt="Thais-ArcGIS" height="40" width="40" 
+  <img align="right" alt="Thais-ArcGIS" height="40" width="40" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/250px-ArcGIS_logo.png">
-  <img align="center" alt="Thais-Geoserver" height="70" width="90" 
+  <img align="rigth" alt="Thais-Geoserver" height="70" width="90" 
 src="https://upload.wikimedia.org/wikipedia/de/3/38/GeoServer_Logo.svg">
-   <img align="center" alt="Thais-Elastic" height="80" width="90" 
+   <img align="right" alt="Thais-Elastic" height="80" width="90" 
 src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt5ebe80fb665aef6b/5ea8c8f26b62d4563b6ecec2/brand-elasticsearch-220x130.svg">
-  <img align="center" alt="Thais-GEE" height="30" width="30" 
+  <img align="right" alt="Thais-GEE" height="30" width="30" 
 src="https://ensinamentossa.com.br/wp-content/uploads/2022/12/earth-engine-logo.png">
-  <img align="center" alt="Gif" height="130" width="130" src="https://github.com/thais-correia/gif/assets/84729710/8ea9a04b-edec-483a-94a4-fe50351bf314">
+  <img align="rigth" alt="Gif" height="130" width="130" src="https://github.com/thais-correia/gif/assets/84729710/8ea9a04b-edec-483a-94a4-fe50351bf314">
 </div> 
             
 ###
