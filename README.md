@@ -28,7 +28,7 @@ src="https://upload.wikimedia.org/wikipedia/de/3/38/GeoServer_Logo.svg">
 src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt5ebe80fb665aef6b/5ea8c8f26b62d4563b6ecec2/brand-elasticsearch-220x130.svg">
   <img align="center" alt="Thais-GEE" height="30" width="30" 
 src="https://ensinamentossa.com.br/wp-content/uploads/2022/12/earth-engine-logo.png">
-  <img align="right" alt="Gif" height="130" width="130" src="https://github.com/thais-correia/gif/assets/84729710/8ea9a04b-edec-483a-94a4-fe50351bf314">
+  <img align="center" alt="Gif" height="130" width="130" src="https://github.com/thais-correia/gif/assets/84729710/8ea9a04b-edec-483a-94a4-fe50351bf314">
 </div> 
             
 ###
