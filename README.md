@@ -30,6 +30,9 @@ src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt5ebe80fb665a
 src="https://ensinamentossa.com.br/wp-content/uploads/2022/12/earth-engine-logo.png">
             
 ###
+<div align="center">
+  <img src="https://raw.githubusercontent.com/thais-correia/thais-correia/main/assets/animation.gif" alt="GIF" width="600"/>
+</div>
 
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UCp21Jl8xKiTuolkueaWHAZw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
